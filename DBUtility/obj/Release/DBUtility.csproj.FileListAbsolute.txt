@@ -1,0 +1,3 @@
+C:\Blake\Project\办公00577\00577\DBUtility\bin\Release\DBUtility.dll
+C:\Blake\Project\办公00577\00577\DBUtility\obj\Release\DBUtility.csprojResolveAssemblyReference.cache
+C:\Blake\Project\办公00577\00577\DBUtility\obj\Release\DBUtility.dll

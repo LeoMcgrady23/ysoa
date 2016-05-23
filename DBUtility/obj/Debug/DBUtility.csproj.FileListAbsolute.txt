@@ -1,0 +1,4 @@
+E:\准备放到需要添加里面\OA10.4\DBUtility\bin\Debug\DBUtility.dll
+E:\准备放到需要添加里面\OA10.4\DBUtility\bin\Debug\DBUtility.pdb
+E:\准备放到需要添加里面\OA10.4\DBUtility\obj\Debug\DBUtility.dll
+E:\准备放到需要添加里面\OA10.4\DBUtility\obj\Debug\DBUtility.pdb
